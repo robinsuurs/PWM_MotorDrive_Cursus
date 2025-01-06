@@ -1,0 +1,4 @@
+# depslib dependency file v1.0
+1734532492 source:c:\users\robin\onedrive - de haagse hogeschool\microcontroller_1\test_codes\pwm_motordrive_cursus\fuse.c
+	<avr/io.h>
+
